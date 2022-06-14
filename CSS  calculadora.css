@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+     background-color: blueviolet;
+     color:blue
+     height: auto;
+     widght: 270px;
+     padding: 20px;
+     border-radius: center;
+     text-align: center;
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+}

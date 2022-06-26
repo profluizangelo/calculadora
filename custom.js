@@ -6,6 +6,7 @@
 
  // Botão -> BackSpace
 
+ 
  const BackSpace = () =>{
      const num = document.querySelector("#display").value.slice(0, -1);
      // declarando constante NUM e tirando -1 número em #display, da direita para a esquerda
